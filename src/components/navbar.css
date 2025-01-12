@@ -1,0 +1,12 @@
+.mobnav{
+    animation-duration: 0.5s;
+    animation-name: fade;
+}
+@keyframes fade{
+    0%{
+        top: 0;
+    }
+    100%{
+        top: 64px;
+    }
+}

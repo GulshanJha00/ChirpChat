@@ -1,5 +1,3 @@
-import React from "react";
-
 const page = () => {
   return (
     <div className="h-screen w-full bg-[#242038] p-8 flex justify-center items-center">
